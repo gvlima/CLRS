@@ -4,9 +4,9 @@ This repository contains solutions and notes for exercises and problems in the b
 
 The main goal of this repository is to serve as a personal challenge, combining theoretical study with practical implementation to build a solid understanding of algorithms and data structures.
 
-![cover](https://github.com/user-attachments/assets/52c58a45-c4c9-471b-8835-48e1d3c248bc)
-
 Enjoy exploring algorithms and sharpening your problem-solving skills!
+
+![cover](https://github.com/user-attachments/assets/52c58a45-c4c9-471b-8835-48e1d3c248bc)
 
 ## Content
 The solutions are organized by chapters, with each chapter containing its corresponding algorithms. Each algorithm is accompanied by a detailed explanation and analysis of its time and space complexities.
