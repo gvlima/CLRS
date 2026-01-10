@@ -1,6 +1,6 @@
 ## Introduction to Algorithms (CLRS)
 
-This repository contains solutions and notes for exercises and problems in the book Introduction to Algorithms, by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein (commonly referred to as CLRS).
+This repository contains solutions and notes for exercises and problems in the book <i>Introduction to Algorithms</i>, by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein (commonly referred as CLRS).
 
 The main goal of this repository is to serve as a personal challenge, combining theoretical study with practical implementation to build a solid understanding of algorithms and data structures.
 
